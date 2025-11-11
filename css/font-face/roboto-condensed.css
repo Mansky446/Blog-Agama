@@ -1,0 +1,125 @@
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-Thin.ttf');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-ThinItalic.ttf');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-ExtraLight.ttf');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-ExtraLightItalic.ttf');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-LightItalic.ttf');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-Italic.ttf');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-MediumItalic.ttf');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-SemiBold.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-SemiBoldItalic.ttf');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-BoldItalic.ttf');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-ExtraBold.ttf');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-ExtraBoldItalic.ttf');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-Black.ttf');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Condensed';
+    src: url('../../assets/font/RobotoCondensed/RobotoCondensed-BlackItalic.ttf');
+    font-weight: 900;
+    font-style: italic;
+}
