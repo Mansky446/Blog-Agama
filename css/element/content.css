@@ -56,6 +56,10 @@ main > section article figure:not(:last-child) {
 }
 
 @media screen and (max-width: 460px) {
+    main > section article figure {
+        align-self: center;
+    }
+    
     main > section article img {
         max-width: 80%;
         align-self: center;
